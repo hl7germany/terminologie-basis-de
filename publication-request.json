@@ -1,0 +1,14 @@
+{
+   "package-id" : "de.terminology",
+   "version" : "1.0.0-alpha1",
+   "path" : "http://ig.fhir.de/igs/de-terminology/",
+   "mode" : "milestone",
+   "status" : "release",
+   "sequence" : "Releases",
+   "desc" : "Initial release of extracted FHIR Terminology resources from de.basisprofile.r4 for Germany.",
+   "first" : true,
+   "title" : "How to Publish a FHIR Implementation Guide",
+   "ci-build" : "http://build.fhir.org/ig/ExampleOrg/myig",
+   "category" : "Terminology",
+   "introduction" : "German Terminology Resources published by HL7 Deutschland."
+}
